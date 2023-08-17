@@ -121,5 +121,14 @@ footer a{
     }
     .btn-calc{
         width: 70%;
+        margin-bottom: 15px;
+    }
+    .caixa-result h2{
+        font-size: 18px;
+        
+    }
+    .caixa-result p{
+        font-size: 13px;
+        padding: 5px;
     }
 }
